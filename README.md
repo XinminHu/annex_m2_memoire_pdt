@@ -3,7 +3,7 @@
 
 Le langage computationnel que nous utilisons ici est Python.
 
-Les librairies comportent :gensim, nltk, spacy, seaborn, matplotlib, pandas et sklearn.
+Les librairies comportent : gensim, nltk, spacy, seaborn, matplotlib, pandas et sklearn.
 
 Modèle du modèle de sujet : LDA
 
